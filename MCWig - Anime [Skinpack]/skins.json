@@ -1,0 +1,6 @@
+{"skins":[{"localization_name":"Male 3","geometry":"geometry.male3","texture":"male3.png","type":"free"},
+{"localization_name":"Male 2","geometry":"geometry.male2","texture":"male2.png","type":"free"},
+{"localization_name":"Male 1","geometry":"geometry.male1","texture":"male1.png","type":"free"},
+{"localization_name":"Female","geometry":"geometry.female2","texture":"female2.png","type":"free"},
+{"localization_name":"Female 2","geometry":"geometry.female3","texture":"female3.png","type":"free"}
+],"serialize_name":"Custom Skins","localization_name":"Custom Skins"}
