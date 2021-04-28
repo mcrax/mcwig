@@ -1,0 +1,45 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Ported and produced by MC874. Reach me on Twitter (@craft_874), Instagram (@m.c874)",
+        "name": "MCWig : Anime's 32x Res (128x128, 128x64)",
+        "uuid": "77a12e6a-a1e0-4ac3-92b4-97ada838b151",
+        "version": [1, 3, 0],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "description": "Ported and produced by MC874. Reach me on Twitter (@craft_874), Instagram (@m.c874)",
+            "type": "resources",
+            "uuid": "04577e6d-d29c-4d00-9ea1-8d326eadfd3e",
+            "version": [1, 3, 0]
+        }
+    ],
+	"subpacks":  [
+        {
+            "folder_name":  "male1",
+			"memory_tier": 0,
+            "name":  "Male 1 : Typical MC Hair"
+        },
+		{
+            "folder_name":  "male2",
+			"memory_tier": 0,
+            "name":  "Male 2 : Common Anime's hair"
+        },
+		{
+            "folder_name":  "male3",
+			"memory_tier": 0,
+            "name":  "Male 3 : Cool looking, suits for stolid, cold character"
+        },
+		{
+            "folder_name":  "female",
+			"memory_tier": 0,
+            "name":  "female : Just Typical Girls Long Hair"
+        },
+		{
+            "folder_name":  "female2",
+			"memory_tier": 0,
+            "name":  "female 2 : Girls Long Hair With Accessories"
+        }
+    ]
+}
