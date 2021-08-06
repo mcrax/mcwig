@@ -1,45 +1,52 @@
+//MC874
 {
     "format_version": 2,
     "header": {
-        "description": "[§cN§6o§en§f-§aH§ba§ct §6L§ea§ay§be§cr§f] Ported §cby §6MC874§f, §b§n§o@craft_874§f. §r§eAlso Reach Me On Instagram §d§o@M.C874§f.",
-        "name": "§r§2M§aC§2W§ai§2g §f• §r§aA§2n§ai§2m§ae§f'§2s §f[§cB§6l§eo§ac§bk§cy §e6§a4§bx §cV§6a§er§ai§ba§cn§6t§f]",
-        "uuid": "96b3f46d-e6f5-4d62-bb3d-404c38a39981",
-        "version": [1, 4, 0],
-        "min_engine_version": [1, 13, 0]
+        "description": "[§cB§6l§eo§ac§bk§cy§f] Ported §cby §6MC874§f, §b§n§o@craft_874§f. §r§eAlso Reach Me On Instagram §d§o@M.C874§f.",
+        "name": "§r§2M§aC§2W§ai§2g §f• §r§aA§2n§ai§2m§ae§f'§2s §f[§cK§6u§ed§aa§bt§ce§f]",
+        "uuid": "8676ccf4-f8cc-4109-b1fa-ec186a828586",
+        "version": [1, 5, 0],
+        "min_engine_version": [1, 14, 0]
     },
     "modules": [
         {
-            "description": "Ported and produced by MC874. Reach me on Twitter (@craft_874), Instagram (@m.c874)",
+            "description": "[§cB§6l§eo§ac§bk§cy§f] Ported §cby §6MC874§f, §b§n§o@craft_874§f. §r§eAlso Reach Me On Instagram §d§o@M.C874§f.",
             "type": "resources",
-            "uuid": "2ea4f679-86ae-403d-a7d6-b35ce1a72b9a",
-            "version": [1, 4, 0]
+            "uuid": "6d60d26f-2dda-4799-b9e7-6ef7c348ef61",
+            "version": [1, 5, 0]
         }
     ],
 	"subpacks":  [
         {
-            "folder_name":  "male1",
+            "folder_name":  "JSteve",
 			"memory_tier": 1,
-            "name":  "Male 1 : Typical MC Hair"
+            "name":  "§cK§6u§ed§aa§bt§ce §6: §fJotaro Kujo Hair"
+        },
+        {
+            "folder_name":  "male1",
+			"memory_tier": 2,
+            "name":  "§cM§6a§el§ae §b1 §c: §fTypical MC Hair"
         },
 		{
             "folder_name":  "male2",
-			"memory_tier": 2,
-            "name":  "Male 2 : Common Anime's hair"
+			"memory_tier": 3,
+            "name":  "§cM§6a§el§ae §b2 §c: §fCommon Anime's hair"
         },
 		{
             "folder_name":  "male3",
-			"memory_tier": 3,
-            "name":  "Male 3 : Cool looking, suits for stolid, cold character"
+			"memory_tier": 4,
+            "name":  "§cM§6a§el§ae §b3 §c: §fCool looking, suits for stolid, cold character"
         },
 		{
             "folder_name":  "female",
-			"memory_tier": 4,
-            "name":  "female : Just Typical Girls Long Hair"
+			"memory_tier": 5,
+            "name":  "§cF§6e§em§aa§bl§ce §6: §fJust Typical Girls Long Hair"
         },
 		{
             "folder_name":  "female2",
-			"memory_tier": 5,
-            "name":  "female 2 : Girls Long Hair With Accessories"
+			"memory_tier": 6,
+            "name":  "§cF§6e§em§aa§bl§ce §62: §fGirls Long Hair With Accessories"
         }
     ]
 }
+//MC874
