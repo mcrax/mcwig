@@ -1,3 +1,4 @@
+//MC874
 {
   "format_version": "1.10.0",
   "minecraft:client_entity": {
@@ -12,12 +13,12 @@
       "textures": {
         "default": "textures/entity/steve",
         "cape": "textures/entity/cape_invisible",
-		"anime" : "textures/female3"
+		"anime" : "textures/females"
       },
       "geometry": {
         "default": "geometry.humanoid.custom",
         "cape": "geometry.cape",
-        "anime" : "geometry.female3"
+        "anime" : "geometry.craft874.females"
       },
       "scripts": {
         "scale": "0.9375",
@@ -105,3 +106,4 @@
     }
   }
 }
+//MC874
