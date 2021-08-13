@@ -1,44 +1,44 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Ported and produced by MC874. Reach me on Twitter (@craft_874), Instagram (@m.c874)",
-        "name": "Anime's Hair Cosmetics",
-        "uuid": "932f40da-3c39-4fcc-adea-86250b4e4807",
-        "version": [1, 0, 0],
+        "description": "[§cN§6o§en§f-§aH§ba§ct §6L§ea§ay§be§cr§f] Ported §cby §6MC874§f, §b§n§o@craft_874§f. §r§eAlso Reach Me On Instagram §d§o@M.C874§f.",
+        "name": "§r§2M§aC§2W§ai§2g §f• §r§aA§2n§ai§2m§ae§f'§2s §f[§cM§6e§es§ah §bV§ca§6r§ei§aa§bn§ct§f]",
+        "uuid": "854b4879-4e9a-4d87-b591-c21f9b601f57",
+        "version": [1, 4, 0],
         "min_engine_version": [1, 13, 0]
     },
     "modules": [
         {
-            "description": "Ported and produced by MC874. Reach me on Twitter (@craft_874), Instagram (@m.c874)",
+            "description": "[§cN§6o§en§f-§aH§ba§ct §6L§ea§ay§be§cr§f] Ported §cby §6MC874§f, §b§n§o@craft_874§f. §r§eAlso Reach Me On Instagram §d§o@M.C874§f.",
             "type": "resources",
-            "uuid": "20b735c9-619e-4c9d-8786-241bcd9909c0",
-            "version": [1, 0, 0]
+            "uuid": "1e3addf6-7f09-4deb-8146-08ad1d495b4c",
+            "version": [1, 4, 0]
         }
     ],
 	"subpacks":  [
         {
             "folder_name":  "male1",
-			"memory_tier": 0,
+			"memory_tier": 1,
             "name":  "Male 1 : Typical MC Hair"
         },
 		{
             "folder_name":  "male2",
-			"memory_tier": 0,
+			"memory_tier": 2,
             "name":  "Male 2 : Common Anime's hair"
         },
 		{
             "folder_name":  "male3",
-			"memory_tier": 0,
+			"memory_tier": 3,
             "name":  "Male 3 : Cool looking, suits for stolid, cold character"
         },
 		{
             "folder_name":  "female",
-			"memory_tier": 0,
+			"memory_tier": 4,
             "name":  "female : Just Typical Girls Long Hair"
         },
 		{
             "folder_name":  "female2",
-			"memory_tier": 0,
+			"memory_tier": 5,
             "name":  "female 2 : Girls Long Hair With Accessories"
         }
     ]
