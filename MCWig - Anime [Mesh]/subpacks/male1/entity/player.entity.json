@@ -6,15 +6,18 @@
       "materials": {
         "default": "entity_alphatest",
         "cape": "entity_alphatest",
-        "animated": "player_animated"
+        "animated": "player_animated",
+        "anime": "entity_alphatest"
       },
       "textures": {
-        "default": "textures/male1",
-        "cape": "textures/entity/cape_invisible"
+        "default": "textures/entity/steve",
+        "cape": "textures/entity/cape_invisible",
+		"anime" : "textures/male1"
       },
       "geometry": {
-        "default": "geometry.male1",
-        "cape": "geometry.cape"
+        "default": "geometry.humanoid.custom",
+        "cape": "geometry.cape",
+        "anime" : "geometry.male1"
       },
       "scripts": {
         "scale": "0.9375",
@@ -92,7 +95,8 @@
         "shield_block_off_hand": "animation.player.shield_block_off_hand",
         "blink": "controller.animation.persona.blink"
       },
-      "render_controllers": [
+      "render_controllers": [	  
+	    { "controller.render.var_anime": "!variable.is_first_person" },																				 
         { "controller.render.player.first_person": "variable.is_first_person" },
         { "controller.render.player.third_person": "!variable.is_first_person && !variable.map_face_icon" },
         { "controller.render.player.map": "variable.map_face_icon" }
