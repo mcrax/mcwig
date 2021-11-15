@@ -1,3 +1,4 @@
+//MC874
 {
   "format_version": "1.10.0",
   "minecraft:client_entity": {
@@ -105,3 +106,4 @@
     }
   }
 }
+//MC874
