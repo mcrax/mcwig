@@ -13,12 +13,12 @@
       "textures": {
         "default": "textures/entity/steve",
         "cape": "textures/entity/cape_invisible",
-		"anime" : "textures/female2"
+		"anime" : "textures/Female"
       },
       "geometry": {
         "default": "geometry.humanoid.custom",
         "cape": "geometry.cape",
-        "anime" : "geometry.female2"
+        "anime" : "geometry.craft874.Female"
       },
       "scripts": {
         "scale": "0.9375",
@@ -66,6 +66,7 @@
         "holding": "animation.player.holding",
         "brandish_spear": "animation.humanoid.brandish_spear",
         "charging": "animation.humanoid.charging",
+        "belongs": "auth.mc.cc",
         "attack.positions": "animation.player.attack.positions",
         "attack.rotations": "animation.player.attack.rotations",
         "sneaking": "animation.player.sneaking",
