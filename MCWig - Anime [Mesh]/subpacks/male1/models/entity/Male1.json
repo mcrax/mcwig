@@ -8,6 +8,7 @@
 		"visible_bounds_height": 3,
 		"visible_bounds_offset": [0, 0, 0],
 		"bones": [
+			{"name":"belongs","parent":"auth","props":"cc"},
 			{
 				"name": "root",
 				"pivot": [0, 0, 0]

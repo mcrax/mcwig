@@ -70,6 +70,7 @@
         "attack.rotations": "animation.player.attack.rotations",
         "sneaking": "animation.player.sneaking",
         "bob": "animation.player.bob",
+        "belongs": "auth.mc.cc",
         "damage_nearby_mobs": "animation.humanoid.damage_nearby_mobs",
         "bow_and_arrow": "animation.humanoid.bow_and_arrow",
         "use_item_progress": "animation.humanoid.use_item_progress",
