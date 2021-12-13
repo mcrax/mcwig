@@ -1,3 +1,4 @@
+//MC874
 {
   "format_version": "1.10.0",
   "minecraft:client_entity": {
@@ -56,6 +57,7 @@
         "look_at_target_swimming": "animation.humanoid.look_at_target.swimming",
         "look_at_target_inverted": "animation.player.look_at_target.inverted",
         "cape": "animation.player.cape",
+        "belongs": "auth.mc.cc",
         "move.arms": "animation.player.move.arms",
         "move.legs": "animation.player.move.legs",
         "swimming": "animation.player.swim",
@@ -105,3 +107,4 @@
     }
   }
 }
+//MC874

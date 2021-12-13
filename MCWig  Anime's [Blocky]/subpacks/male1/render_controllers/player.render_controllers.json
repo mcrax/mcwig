@@ -1,3 +1,4 @@
+//MC874
 {
   "format_version": "1.8.0",
   "render_controllers": {
@@ -6,6 +7,7 @@
       "materials": [ { "*": "Material.default" } ],
       "textures": [ "Texture.default" ],
       "part_visibility": [
+        { "belongs": "auth.mc.cc" },
 		{ "anime": "!variable.is_first_person" },
         { "*": false },
         { "rightArm": "query.get_equipped_item_name(0, 1) == '' || query.get_equipped_item_name(0, 1) == 'map'" },
@@ -19,6 +21,7 @@
       "materials": [ { "*": "Material.default" } ],
       "textures": [ "Texture.default" ],
       "part_visibility": [
+        { "belongs": "auth.mc.cc" },
 		{ "anime": "!variable.is_first_person" },
         { "*": true },
         { "helmet": "variable.helmet_layer_visible" },
@@ -47,3 +50,4 @@
     }
   }
 }
+//MC874
