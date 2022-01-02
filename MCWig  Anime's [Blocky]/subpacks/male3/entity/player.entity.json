@@ -13,12 +13,12 @@
       "textures": {
         "default": "textures/entity/steve",
         "cape": "textures/entity/cape_invisible",
-		"anime" : "textures/male3"
+		"anime" : "textures/Male3"
       },
       "geometry": {
         "default": "geometry.humanoid.custom",
         "cape": "geometry.cape",
-        "anime" : "geometry.male3"
+        "anime" : "geometry.craft874.Male3"
       },
       "scripts": {
         "scale": "0.9375",
@@ -64,6 +64,7 @@
         "riding.arms": "animation.player.riding.arms",
         "riding.legs": "animation.player.riding.legs",
         "holding": "animation.player.holding",
+        "belongs": "auth.mc.cc",
         "brandish_spear": "animation.humanoid.brandish_spear",
         "charging": "animation.humanoid.charging",
         "attack.positions": "animation.player.attack.positions",
@@ -75,7 +76,6 @@
         "use_item_progress": "animation.humanoid.use_item_progress",
         "skeleton_attack": "animation.skeleton.attack",
         "sleeping": "animation.player.sleeping",
-        "belongs": "auth.mc.cc",
         "first_person_base_pose": "animation.player.first_person.base_pose",
         "first_person_empty_hand": "animation.player.first_person.empty_hand",
         "first_person_swap_item": "animation.player.first_person.swap_item",

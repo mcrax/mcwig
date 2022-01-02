@@ -13,12 +13,12 @@
       "textures": {
         "default": "textures/entity/steve",
         "cape": "textures/entity/cape_invisible",
-		"anime" : "textures/male2"
+		"anime" : "textures/Male2"
       },
       "geometry": {
         "default": "geometry.humanoid.custom",
         "cape": "geometry.cape",
-        "anime" : "geometry.male2"
+        "anime" : "geometry.craft874.Male2"
       },
       "scripts": {
         "scale": "0.9375",
