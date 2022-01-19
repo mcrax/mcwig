@@ -2,54 +2,59 @@
 {
     "format_version": 2,
     "header": {
-        "description": "[§cB§6l§eo§ac§bk§f] Ported §cby §6MC874§f, §b§n§o@craft_874§f. §r§eAlso Reach Me On Instagram §d§o@M.C874§f.",
-        "name": "§r§2M§aC§2W§ai§2g §f• §r§aA§2n§ai§2m§ae§f'§2s §f[§cI§6n§et§ae§br§ca§6t§ee§f]",
-        "uuid": "871e33a1-f4b3-4d1a-bcf3-bf20c7a5ffa6",
-        "version": [1, 6, 0],
+        "description": "[§cM§6e§es§ah§f] Ported §cby §6MC874§f, §b§n§o@craft_874§f. §r§eAlso Reach Me On Instagram §d§o@M.C874§f.",
+        "name": "§r§2M§aC§2W§ai§2g §f• §r§aA§2n§ai§2m§ae§f'§2s §f[§cB§6a§ec§ak§f-§bu§f-§cg§6o§f]",
+        "uuid": "cb32b9e4-3f71-46da-8dea-a1f2d9a857f7",
+        "version": [1, 7, 0],
         "min_engine_version": [1, 14, 0]
     },
     "modules": [
         {
-            "description": "[§cB§6l§eo§ac§bk§f] Ported §cby §6MC874§f, §b§n§o@craft_874§f. §r§eAlso Reach Me On Instagram §d§o@M.C874§f.",
+            "description": "[§cM§6e§es§ah§f] Ported §cby §6MC874§f, §b§n§o@craft_874§f. §r§eAlso Reach Me On Instagram §d§o@M.C874§f.",
             "type": "resources",
-            "uuid": "ad830c89-d1d7-4399-acf5-c594b488cb87",
-            "version": [1, 6, 0]
+            "uuid": "491d930d-c7ad-4ac6-9367-dc62ea1adbac",
+            "version": [1, 7, 0]
         }
     ],
 	"subpacks":  [
         {
-            "folder_name":  "JSteve",
+            "folder_name":  "Bakugo",
 			"memory_tier": 1,
-            "name":  "§cK§6u§ed§aa§bt§ce §6: §fJotaro Kujo Hair"
+            "name":  "§cB§6a§ek§au§bg§co §6: §fFireworks Boy from BNHA"
+        },
+        {
+            "folder_name":  "JSteve",
+			"memory_tier": 2,
+            "name":  "§cK§6u§ej§ao §6: §fJotaro Kujo Hair"
         },
         {
             "folder_name":  "male1",
-			"memory_tier": 2,
+			"memory_tier": 3,
             "name":  "§cM§6a§el§ae §b1 §c: §fTypical MC Hair"
         },
 		{
             "folder_name":  "male2",
-			"memory_tier": 3,
+			"memory_tier": 4,
             "name":  "§cM§6a§el§ae §b2 §c: §fCommon Anime's hair"
         },
 		{
             "folder_name":  "male3",
-			"memory_tier": 4,
+			"memory_tier": 5,
             "name":  "§cM§6a§el§ae §b3 §c: §fCool looking, suits for stolid, cold character"
         },
 		{
             "folder_name":  "Female",
-			"memory_tier": 5,
+			"memory_tier": 6,
             "name":  "§cF§6e§em§aa§bl§ce §6: §fJust Typical Girls Long Hair"
         },
 		{
             "folder_name":  "Females",
-			"memory_tier": 6,
+			"memory_tier": 7,
             "name":  "§cF§6e§em§aa§bl§ce §62: §fGirls Long Hair With Accessories"
         },
         {
             "folder_name": "Lady",
-            "memory_tier": 7,
+            "memory_tier": 8,
             "name":  "§cF§6e§em§aa§bl§ce §63: §fPrincess Character"
         }
     ]
