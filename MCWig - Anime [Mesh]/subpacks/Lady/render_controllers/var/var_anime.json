@@ -1,12 +1,7 @@
 //MC874
-{
-  "format_version": "1.8.0",
-  "render_controllers": {
-    "controller.render.var_anime": {
-      "geometry": "Geometry.anime",
-      "materials": [ { "*": "Material.anime" } ],
-      "textures": [ "Texture.anime" ]
-    }
-  }
-}
+{"format_version": "1.10.0","render_controllers": {"controller.render.var_anime": {
+    "geometry": "Geometry.anime",
+    "materials": [ { "*": "Material.anime" } ],
+    "textures": [ "Texture.anime" ]
+}}}
 //MC874
